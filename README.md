@@ -1,7 +1,7 @@
 # Tarea-4.-Programa
 Programa hecho por Louys Genao Abreu 2021-0339.
 
-Esta es el código y el link del video de mi programa. Espero y le agrade.
+Este es el código y el link del video de mi programa. Espero y le agrade.
 
 OJO: Si va a ejecutar el programa, abra desde Login.java.
      Y como la base de dato utilizada fue local no remota, no usara todas las funcionalidades.
